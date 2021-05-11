@@ -1,2 +1,2 @@
-# batman poster template
+# Batman poster template
 > using **SASS**
